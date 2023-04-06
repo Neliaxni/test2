@@ -6,6 +6,13 @@ p{
 h1{
 	text-align: center;
 	font-size:50px;
-	font-family: Lucida Handwriting
-	background-color:#b187c4;
+	background-color:#bb99ff;
+}
+
+div{
+	font-size:20px;
+	text-align: center;
+	margin: 0px 500px 0px 500px;
+	background-color:#ddccff;
+	
 }
